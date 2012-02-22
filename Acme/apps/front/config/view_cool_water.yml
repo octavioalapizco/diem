@@ -1,0 +1,19 @@
+# apps/front/config/view.yml  
+default:  
+  
+  http_metas:  
+    content-type: text/html  
+  
+  stylesheets:  
+    - layout  
+    - typography  
+    - navigation
+    - markdown
+    - form
+    - article
+    - search    
+    - mio
+  javascripts:     # we don't need any JS right now  
+  
+  has_layout:      true  
+  layout:          layout

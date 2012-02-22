@@ -1,0 +1,182 @@
+
+1329715883|-|094pkr0djpa2l5d8vbm10aj677|task|clear|cache|Cache cleared|
+1329715883|-|094pkr0djpa2l5d8vbm10aj677|task|create|User|admin|DmUser:1
+1329715883|-|094pkr0djpa2l5d8vbm10aj677|task|create|Page|#1 main.root|DmPage:1
+1329715883|-|094pkr0djpa2l5d8vbm10aj677|task|create|Page|#2 main.error404|DmPage:2
+1329715883|-|094pkr0djpa2l5d8vbm10aj677|task|create|Page|#3 main.signin|DmPage:3
+1329715883|-|094pkr0djpa2l5d8vbm10aj677|task|clear|cache|Cache cleared|
+1329715883|-|094pkr0djpa2l5d8vbm10aj677|task|clear|cache|Cache cleared|
+1329715883|-|094pkr0djpa2l5d8vbm10aj677|task|clear|cache|Cache cleared|
+1329715986|127.0.0.1|8t2aq1vdp62o4sj36t4m2voqp5|1|sign_in|user|User logged in|
+1329716027|127.0.0.1|8t2aq1vdp62o4sj36t4m2voqp5|1|create|Page|#4 main.blog|DmPage:4
+1329717120|127.0.0.1|8t2aq1vdp62o4sj36t4m2voqp5|1|sign_out|user|User logged out|
+1329717162|127.0.0.1|c8n6pgmbmofhm52uha1cpu7hc1|1|sign_in|user|User logged in|
+1329717685|127.0.0.1|nffnuhjqbnsk09qvop8r6uer97|1|sign_in|user|User logged in|
+1329717700|127.0.0.1|nffnuhjqbnsk09qvop8r6uer97|1|create|Page|#5 main.test|DmPage:5
+1329717943|127.0.0.1|c8n6pgmbmofhm52uha1cpu7hc1|1|sign_out|user|User logged out|
+1329718214|127.0.0.1|nffnuhjqbnsk09qvop8r6uer97|1|clear|cache|Cache cleared|
+1329718950|127.0.0.1|nffnuhjqbnsk09qvop8r6uer97|1|clear|cache|Cache cleared|
+1329718978|127.0.0.1|nffnuhjqbnsk09qvop8r6uer97|1|clear|cache|Cache cleared|
+1329719494|127.0.0.1|nffnuhjqbnsk09qvop8r6uer97|1|clear|cache|Cache cleared|
+1329719728|127.0.0.1|0d58gmr1gjh6lis0uunmlp2s04||error|exception|Curl PHP support must be enabled in order to use the TwitterApiServer class. Check the curl php manual there: http://us.php.net/curl|
+1329719740|127.0.0.1|0d58gmr1gjh6lis0uunmlp2s04||error|exception|Curl PHP support must be enabled in order to use the TwitterApiServer class. Check the curl php manual there: http://us.php.net/curl|
+1329719926|127.0.0.1|nffnuhjqbnsk09qvop8r6uer97|1|clear|cache|Cache cleared|
+1329721438|-|uvn2cujjiqkhnjh81me3n9qip3|task|clear|cache|Cache cleared|
+1329721438|-|uvn2cujjiqkhnjh81me3n9qip3|task|clear|cache|Cache cleared|
+1329721438|-|uvn2cujjiqkhnjh81me3n9qip3|task|clear|cache|Cache cleared|
+1329721438|-|uvn2cujjiqkhnjh81me3n9qip3|task|clear|cache|Cache cleared|
+1329721484|127.0.0.1|nffnuhjqbnsk09qvop8r6uer97|1|clear|cache|Cache cleared|
+1329721586|127.0.0.1|nffnuhjqbnsk09qvop8r6uer97|1|create|Page|#6 main.contact|DmPage:6
+1329722687|127.0.0.1|0d58gmr1gjh6lis0uunmlp2s04||create|Contact|asdf|DmContact:1
+1329725394|-|fgeksl543seudpt5edgupavad0|task|clear|cache|Cache cleared|
+1329725394|-|fgeksl543seudpt5edgupavad0|task|clear|cache|Cache cleared|
+1329725394|-|fgeksl543seudpt5edgupavad0|task|clear|cache|Cache cleared|
+1329725394|-|fgeksl543seudpt5edgupavad0|task|clear|cache|Cache cleared|
+1329725522|-|qojedf8asicjo6ts9km5k1rsv2|task|clear|cache|Cache cleared|
+1329725522|-|qojedf8asicjo6ts9km5k1rsv2|task|clear|cache|Cache cleared|
+1329725522|-|qojedf8asicjo6ts9km5k1rsv2|task|clear|cache|Cache cleared|
+1329725522|-|qojedf8asicjo6ts9km5k1rsv2|task|clear|cache|Cache cleared|
+1329725592|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|sign_in|user|User logged in|
+1329725595|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|clear|cache|Cache cleared|
+1329725702|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|Mi Primer articulo|Article:1
+1329725798|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|delete|Article|-|
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|d dictum mi diam in tellus. Sed leo. Don|Article:2
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|arcu. Donec porta pulvinar|Article:3
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|oin pharetra, diam et euismod commodo, nunc orci|Article:4
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|nt eu, pharetra in|Article:5
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|uat est, et s|Article:6
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|um consectetu|Article:7
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|bortis felis. Ut malesuada ante sed ligul|Article:8
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|ndisse rh|Article:9
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|a facilisi. Maecenas eget lorem. In sit ame|Article:10
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|ulla leo convallis lacus, eget sodales purus neque a|Article:11
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|per. Cras ac|Article:12
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|em rutrum massa ultricies pellentesque. Cras|Article:13
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|en. Vestibulum pretium. Donec just|Article:14
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|m venenatis. Nullam venenatis justo et lorem. Vestibulum an|Article:15
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|accumsan leo. Pellentesque rhoncus mauris a sapien. Proin|Article:16
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|lerisque, nulla massa porta nunc, s|Article:17
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|c, sed dictum mi diam in tellus. Sed leo. Donec la|Article:18
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|isl lectus, pretium posuere, porta tempor, c|Article:19
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|agittis magna sed nisi. Suspendisse condimentum eleife|Article:20
+1329725806|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Article|itur leo erat, dictum sit amet, euismod id, interdum et,|Article:21
+1329725934|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|clear|cache|Cache cleared|
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#7 article.list|DmPage:7
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#8 article.show|DmPage:8
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#9 article.show|DmPage:9
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#10 article.show|DmPage:10
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#11 article.show|DmPage:11
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#12 article.show|DmPage:12
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#13 article.show|DmPage:13
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#14 article.show|DmPage:14
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#15 article.show|DmPage:15
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#16 article.show|DmPage:16
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#17 article.show|DmPage:17
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#18 article.show|DmPage:18
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#19 article.show|DmPage:19
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#20 article.show|DmPage:20
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#21 article.show|DmPage:21
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#22 article.show|DmPage:22
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#23 article.show|DmPage:23
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#24 article.show|DmPage:24
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#25 article.show|DmPage:25
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#26 article.show|DmPage:26
+1329725941|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|create|Page|#27 article.show|DmPage:27
+1329726154|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|clear|cache|Cache cleared|
+1329726504|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|clear|cache|Cache cleared|
+1329726894|127.0.0.1|k9pn8gh00bklcpffmo2at31v83|1|clear|cache|Cache cleared|
+1329758886|127.0.0.1|8mec46oqc6tm587ir6cae96mj2|1|sign_in|user|User logged in|
+1329774493|127.0.0.1|i9ckpn7jnjolbj7es9l415lql4|1|sign_in|user|User logged in|
+1329774603|127.0.0.1|qc180rpdvq8i5j0uoiqfta12d1||error|exception|Action "article/feed" does not exist.|
+1329774673|127.0.0.1|qc180rpdvq8i5j0uoiqfta12d1||error|exception|Action "article/feed" does not exist.|
+1329774695|127.0.0.1|qc180rpdvq8i5j0uoiqfta12d1||error|exception|Action "article/feed" does not exist.|
+1329774763|127.0.0.1|qc180rpdvq8i5j0uoiqfta12d1||error|exception|Action "article/feed" does not exist.|
+1329775586|127.0.0.1|qc180rpdvq8i5j0uoiqfta12d1||error|exception|Action "article/feed" does not exist.|
+1329775593|127.0.0.1|qc180rpdvq8i5j0uoiqfta12d1||error|exception|Action "article/feed" does not exist.|
+1329776089|127.0.0.1|qc180rpdvq8i5j0uoiqfta12d1||error|exception|Action "article/feed" does not exist.|
+1329776222|127.0.0.1|qc180rpdvq8i5j0uoiqfta12d1||error|exception|The template "feedSuccess.php" does not exist or is unreadable in "".|
+1329777502|127.0.0.1|mq738rps0dt7soh9u7ehr0b7r7|1|sign_in|user|User logged in|
+1329777502|127.0.0.1|mq738rps0dt7soh9u7ehr0b7r7|1|clear|cache|Cache cleared|
+1329777979|-|qtbuo738s6maks35q4d69j4br4|task|update|search|"dm_page_en" updated: 18 pages|
+1329778230|127.0.0.1|mq738rps0dt7soh9u7ehr0b7r7|1|create|Page|#28 main.search|DmPage:28
+1329778316|127.0.0.1|mq738rps0dt7soh9u7ehr0b7r7|1|clear|cache|Cache cleared|
+1329784217|127.0.0.1|ipthig0k83o63rad49vqb2ia63|1|sign_in|user|User logged in|
+1329784361|-|knu4eff75cbe1bahhuo4bkkmp1|task|clear|cache|Cache cleared|
+1329784361|-|knu4eff75cbe1bahhuo4bkkmp1|task|clear|cache|Cache cleared|
+1329784361|-|knu4eff75cbe1bahhuo4bkkmp1|task|clear|cache|Cache cleared|
+1329784361|-|knu4eff75cbe1bahhuo4bkkmp1|task|clear|cache|Cache cleared|
+1329784420|127.0.0.1|ipthig0k83o63rad49vqb2ia63|1|clear|cache|Cache cleared|
+1329784790|-|02f6pu850quq8r2t21bnh1mqt0|task|clear|cache|Cache cleared|
+1329784790|-|02f6pu850quq8r2t21bnh1mqt0|task|clear|cache|Cache cleared|
+1329784790|-|02f6pu850quq8r2t21bnh1mqt0|task|clear|cache|Cache cleared|
+1329784790|-|02f6pu850quq8r2t21bnh1mqt0|task|clear|cache|Cache cleared|
+1329784830|127.0.0.1|ipthig0k83o63rad49vqb2ia63|1|clear|cache|Cache cleared|
+1329785621|127.0.0.1|ipthig0k83o63rad49vqb2ia63|1|clear|cache|Cache cleared|
+1329787422|-|8088e3sjvmniskisek77540ti5|task|clear|cache|Cache cleared|
+1329787422|-|8088e3sjvmniskisek77540ti5|task|clear|cache|Cache cleared|
+1329787422|-|8088e3sjvmniskisek77540ti5|task|clear|cache|Cache cleared|
+1329787422|-|8088e3sjvmniskisek77540ti5|task|clear|cache|Cache cleared|
+1329788574|127.0.0.1|ipthig0k83o63rad49vqb2ia63|1|clear|cache|Cache cleared|
+1329789250|-|9isvnfvcpgiatlvpvhibth09r0|task|clear|cache|Cache cleared|
+1329789250|-|9isvnfvcpgiatlvpvhibth09r0|task|clear|cache|Cache cleared|
+1329789250|-|9isvnfvcpgiatlvpvhibth09r0|task|clear|cache|Cache cleared|
+1329789250|-|9isvnfvcpgiatlvpvhibth09r0|task|clear|cache|Cache cleared|
+1329789932|-|pcmm07srke6mln3jpgu0ntugl3|task|clear|cache|Cache cleared|
+1329789932|-|pcmm07srke6mln3jpgu0ntugl3|task|clear|cache|Cache cleared|
+1329789932|-|pcmm07srke6mln3jpgu0ntugl3|task|clear|cache|Cache cleared|
+1329789932|-|pcmm07srke6mln3jpgu0ntugl3|task|clear|cache|Cache cleared|
+1329789976|127.0.0.1|ipthig0k83o63rad49vqb2ia63|1|error|exception|Article records are not commentable|
+1329790009|127.0.0.1|ipthig0k83o63rad49vqb2ia63|1|error|exception|Article records are not commentable|
+1329790873|-|j8vdoom2nkur4bakiimq5j5af0|task|clear|cache|Cache cleared|
+1329790873|-|j8vdoom2nkur4bakiimq5j5af0|task|clear|cache|Cache cleared|
+1329790873|-|j8vdoom2nkur4bakiimq5j5af0|task|clear|cache|Cache cleared|
+1329790873|-|j8vdoom2nkur4bakiimq5j5af0|task|clear|cache|Cache cleared|
+1329790950|127.0.0.1|2i63ai3nph6ebsfnkcdoi82sq2||error|exception|SQLSTATE[42S02]: Base table or view not found: 1146 Table 'acme.dm_comment' doesn't exist|
+1329791139|127.0.0.1|ipthig0k83o63rad49vqb2ia63|1|clear|cache|Cache cleared|
+1329791149|127.0.0.1|ipthig0k83o63rad49vqb2ia63|1|error|exception|SQLSTATE[42S02]: Base table or view not found: 1146 Table 'acme.dm_comment' doesn't exist|
+1329791152|127.0.0.1|ipthig0k83o63rad49vqb2ia63|1|error|exception|SQLSTATE[42S02]: Base table or view not found: 1146 Table 'acme.dm_comment' doesn't exist|
+1329793027|-|c94c0p3p4rtnjk07sa4k555jj1|task|clear|cache|Cache cleared|
+1329793035|127.0.0.1|2i63ai3nph6ebsfnkcdoi82sq2||error|exception|SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'|
+1329793027|-|c94c0p3p4rtnjk07sa4k555jj1|task|clear|cache|Cache cleared|
+1329793027|-|c94c0p3p4rtnjk07sa4k555jj1|task|clear|cache|Cache cleared|
+1329793027|-|c94c0p3p4rtnjk07sa4k555jj1|task|clear|cache|Cache cleared|
+1329793122|127.0.0.1|2i63ai3nph6ebsfnkcdoi82sq2||error|exception|SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'|
+1329793171|127.0.0.1|2i63ai3nph6ebsfnkcdoi82sq2||error|exception|SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_at' in 'field list'|
+1329793207|127.0.0.1|2i63ai3nph6ebsfnkcdoi82sq2||create|Comment|zesar|DmComment:21
+1329793247|127.0.0.1|2i63ai3nph6ebsfnkcdoi82sq2||error|exception|SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.id' in 'field list'|
+1329793307|127.0.0.1|6es1lbn3gp6bqtek7omhol04r0|1|sign_in|user|User logged in|
+1329793307|127.0.0.1|6es1lbn3gp6bqtek7omhol04r0|1|error|exception|SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.id' in 'field list'|
+1329794148|127.0.0.1|2i63ai3nph6ebsfnkcdoi82sq2||error|exception|SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '21' for key 'PRIMARY'|
+1329794199|127.0.0.1|2i63ai3nph6ebsfnkcdoi82sq2||create|Comment|augusto|DmComment:23
+1329795954|127.0.0.1|6es1lbn3gp6bqtek7omhol04r0|1|create|Page|#29 main.dmwidgetgallerygridplugin|DmPage:29
+1329796237|-|a606oi4g3g3sh72pcmfstas766|task|clear|cache|Cache cleared|
+1329796237|-|a606oi4g3g3sh72pcmfstas766|task|clear|cache|Cache cleared|
+1329796237|-|a606oi4g3g3sh72pcmfstas766|task|clear|cache|Cache cleared|
+1329796237|-|a606oi4g3g3sh72pcmfstas766|task|clear|cache|Cache cleared|
+1329796278|127.0.0.1|6es1lbn3gp6bqtek7omhol04r0|1|clear|cache|Cache cleared|
+1329796434|127.0.0.1|6es1lbn3gp6bqtek7omhol04r0|1|clear|cache|Cache cleared|
+1329797449|127.0.0.1|6es1lbn3gp6bqtek7omhol04r0|1|clear|cache|Cache cleared|
+1329800294|127.0.0.1|6es1lbn3gp6bqtek7omhol04r0|1|update|Article|Este es mi primer post|Article:2
+1329800327|127.0.0.1|6es1lbn3gp6bqtek7omhol04r0|1|update|Article|Este es mi primer post|Article:2
+1329800517|-|pjb7fhglqo3k1it9e93ba1dps3|task|clear|cache|Cache cleared|
+1329800517|-|pjb7fhglqo3k1it9e93ba1dps3|task|clear|cache|Cache cleared|
+1329800517|-|pjb7fhglqo3k1it9e93ba1dps3|task|clear|cache|Cache cleared|
+1329800517|-|pjb7fhglqo3k1it9e93ba1dps3|task|clear|cache|Cache cleared|
+1329800822|127.0.0.1|6es1lbn3gp6bqtek7omhol04r0|1|clear|cache|Cache cleared|
+1329800952|127.0.0.1|6es1lbn3gp6bqtek7omhol04r0|1|create|Page|#30 main.chat|DmPage:30
+1329802079|127.0.0.1|2i63ai3nph6ebsfnkcdoi82sq2||error|exception|SQLSTATE[42S02]: Base table or view not found: 1146 Table 'acme.dm_talk_room' doesn't exist|
+1329805562|127.0.0.1|nqvlvd959oju7920b6h39gmau6|1|sign_in|user|User logged in|
+1329805562|127.0.0.1|nqvlvd959oju7920b6h39gmau6|1|sign_out|user|User logged out|
+1329805563|127.0.0.1|nqvlvd959oju7920b6h39gmau6||error|exception|SQLSTATE[42S02]: Base table or view not found: 1146 Table 'acme.dm_talk_room' doesn't exist|
+1329883944|127.0.0.1|bb2p4ogdn8asqpl0o3ep0ukoo2|1|sign_in|user|User logged in|
+1329886600|-|8buglqsf2rsqmlm0j2gd3thsc7|task|clear|cache|Cache cleared|
+1329886600|-|8buglqsf2rsqmlm0j2gd3thsc7|task|clear|cache|Cache cleared|
+1329886600|-|8buglqsf2rsqmlm0j2gd3thsc7|task|clear|cache|Cache cleared|
+1329886600|-|8buglqsf2rsqmlm0j2gd3thsc7|task|clear|cache|Cache cleared|
+1329886708|127.0.0.1|f2ko30pnnd2seu991q7a0q3o40|1|clear|cache|Cache cleared|
+1329886838|127.0.0.1|f2ko30pnnd2seu991q7a0q3o40|1|clear|cache|Cache cleared|
+1329888943|127.0.0.1|f2ko30pnnd2seu991q7a0q3o40|1|clear|cache|Cache cleared|
+1329890720|127.0.0.1|f2ko30pnnd2seu991q7a0q3o40|1|clear|cache|Cache cleared|
+1329890742|127.0.0.1|f2ko30pnnd2seu991q7a0q3o40|1|clear|cache|Cache cleared|
+1329892111|127.0.0.1|dvraecpmtupg4gb44on39pm0b4||error|exception|SQLSTATE[42S02]: Base table or view not found: 1146 Table 'acme.dm_talk_room' doesn't exist|
+1329892375|127.0.0.1|dvraecpmtupg4gb44on39pm0b4||error|exception|SQLSTATE[42S02]: Base table or view not found: 1146 Table 'acme.dm_talk_room' doesn't exist|

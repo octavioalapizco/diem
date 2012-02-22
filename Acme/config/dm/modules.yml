@@ -1,0 +1,17 @@
+Content:  
+  
+  Global:  
+  
+    main:  
+      components:  
+        header:  
+        footer:  
+  
+  Blog:  
+  
+    article:  
+      page:         true 
+      components:  
+        list:
+        listSide:
+        show:

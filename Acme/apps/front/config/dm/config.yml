@@ -1,0 +1,19 @@
+# apps/front/config/dm/config.yml  
+all:  
+  
+  theming:                          # the theming component  
+    themes:                         # list of themes  
+      healthy:                    # theme key  
+        name:      Healthy          # theme name; defaults to the theme key  
+        dir:       themeHealthyLife # the directory in the web dir that holds the theme files  
+        enabled:   true             # whether the theme is enabled for use with the dmThemeManager  
+      coolwater:                    # theme key  
+        name:      Cool Water       # theme name; defaults to the theme key  
+        dir:       themeCoolWater   # the directory in the web dir that holds the theme files  
+        enabled:   false             # whether the theme is enabled for use with the dmThemeManager  
+  
+  html:  
+    doctype:  
+      name:               html                    # Doctype name ( 'html', 'xhtml' )  
+      version:            5                       # Doctype xhtml version ( '1.0', '1.1' ) or html version ( '4', '5' )  
+      compliance:         transitional            # Doctype xhtml compliance ( 'strict', 'transitional' )  

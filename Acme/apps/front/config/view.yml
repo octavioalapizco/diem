@@ -1,0 +1,14 @@
+# apps/front/config/view.yml  
+default:  
+  
+  http_metas:  
+    content-type: text/html  
+  
+  stylesheets:  
+    - style  
+    - ie9  
+  
+  javascripts:     # we don't need any JS right now  
+  
+  has_layout:      true  
+  layout:          layout
